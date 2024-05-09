@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/humble/include/**",
+        "/home/bsosik/tiago_msc_ws/src/octomap_msgs/include/**",
+        "/home/bsosik/tiago_msc_ws/src/octomap_server2/include/**",
+        "/home/bsosik/tiago_msc_ws/src/perception_pcl/pcl_conversions/include/**",
+        "/home/bsosik/tiago_msc_ws/src/perception_pcl/pcl_ros/include/**",
+        "/home/bsosik/tiago_msc_ws/src/play_motion2/play_motion2/include/**",
+        "/home/bsosik/tiago_msc_ws/src/tiago_simulation_bringup/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
