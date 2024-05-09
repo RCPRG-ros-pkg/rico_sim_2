@@ -23,6 +23,7 @@ git clone https://github.com/RCPRG-ros-pkg/rico_sim_2.git .
 
 ### Install dependencies
 ```console
+cd ..
 sudo rosdep init
 rosdep update
 rosdep install --from-paths src -y --ignore-src
@@ -38,7 +39,6 @@ colcon build --symlink-install
 
 ### Source the workspace
 ```console
-cd ~/rico_ros2_ws
 source install/setup.bash
 ```
 
