@@ -4,6 +4,7 @@ This repository consists of packages that enables TIAGo robot simulation in ROS2
 
 ## Getting Started
 ### Prerequisites
+
 1. Install ROS 2 Humble - [installation instructions](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html).
 2. Install Nav2 - [installation instructions](https://docs.nav2.org/getting_started/index.html#installation).
 3. Update the apt package and install required packages
