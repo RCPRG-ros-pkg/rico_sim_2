@@ -10,7 +10,7 @@ This repository consists of packages that enables TIAGo robot simulation in ROS2
 
 ```console
 sudo apt-get update
-sudo apt-get install git python3-vcstool python3-rosdep python3-colcon-common-extensions
+sudo apt-get install git python3-rosdep python3-colcon-common-extensions
 ```
 ### Create the workspace
 Create your workspace and clone this repository:
